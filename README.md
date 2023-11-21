@@ -1,3 +1,8 @@
+# Notes
+
+- https://github.com/RedOrion/Lacuna-Android-Client
+- https://github.com/LacunaOmnibus/Lacuna-Android-Client/blob/0231760f4f9e4ae8138d93ddef47af2599eda843/README.md
+
 # Lacuna-Android-Client
 
 Android client for The Lacuna Expanse. Source code for the project is contained in the 'Lacuna Expanse' directory. **Note:** *this project is no longer being worked on. :pensive:*
